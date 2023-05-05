@@ -56,7 +56,7 @@ while(escolha1 == 'sim' or escolha1=='Sim'):
 
     if(escolha2 == 2):
         #Caso usuario solicite as informações do Integrante sera exibida a mensagem abaixo
-        print("*"*56+"\nInformações do Integrante:\nCurso: Análise e Desenvolvimento de Sistemas\nIntegrante: Fernando Henrique dos Santos - RGM: 28232437\nMatérias envolvidas: Programação de Computadores e Organização e Arquitetura de Computadores \n"+"*"*56)
+        print("*"*56+"\nInformações do Integrante:\nCurso: Análise e Desenvolvimento de Sistemas\nIntegrante: Fernando Henrique dos Santos - RGM: 28232437\nMatérias envolvidas: Programação de Computadores e Organização e Arquitetura de Computadores\nVersão : 2.0 \n"+"*"*56)
         escolha1 = input("Deseja Continuar?")
     
     if(escolha2 == 3):
